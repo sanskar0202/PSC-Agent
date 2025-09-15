@@ -1,0 +1,4 @@
+is_new_number,timezone,first_session_status,recurring_session_status,recurring_session_count,insurance_status,name,email,phone_number
+FALSE,America/Los_Angeles,completed,scheduled,0.0,verified,Sample,sample@test.com,+910000000000
+FALSE,America/Los_Angeles,scheduled,not_scheduled,0,not_submitted,Sanskar,sanskar@imbesideyou.world,+918888491223
+FALSE,America/Los_Angeles,not_scheduled,not_scheduled,0,not_submitted,Naman,naman@imbesideyou.world,+15109473895
